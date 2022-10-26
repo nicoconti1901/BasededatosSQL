@@ -1,0 +1,1 @@
+SELECT * FROM porfolionicoconti.nivel_educacion;
